@@ -19,8 +19,8 @@ You'll perform four tasks:
 
 ## Required files
 
-- [Small business onboarding readiness brief]()
-- [Small business onboarding metrics workbook]()
+- [Small business onboarding readiness brief](https://github.com/mikemishal/CIE-CNB-Lab/blob/main/small-business-onboarding-metrics.xlsx)
+- [Small business onboarding metrics workbook](https://github.com/mikemishal/CIE-CNB-Lab/blob/main/small-business-onboarding-metrics.xlsx)
 
 ## Required applications
 
