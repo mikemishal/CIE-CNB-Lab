@@ -1,4 +1,4 @@
-# CIE Wells Fargo
+# CIE CNB
 
 Build a connected Microsoft 365 Copilot workflow for a fictional banking scenario. You will follow one professional through a multi-application task, carrying each output forward instead of starting over at each application boundary.
 
