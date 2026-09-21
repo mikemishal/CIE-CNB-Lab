@@ -19,8 +19,10 @@ You'll perform four tasks:
 
 ## Required files
 
-- [Small business onboarding readiness brief](https://github.com/mikemishal/CIE-CNB-Lab/blob/main/small-business-onboarding-metrics.xlsx)
-- [Small business onboarding metrics workbook](https://github.com/mikemishal/CIE-CNB-Lab/blob/main/small-business-onboarding-metrics.xlsx)
+Download these files from the GitHub repository before you begin. Open the Word document in Microsoft Word and the workbook in Microsoft Excel.
+
+- [Download the small business onboarding readiness brief](https://github.com/mikemishal/CIE-CNB-Lab/blob/main/small-business-onboarding-readiness-brief.docx?raw=1)
+- [Download the small business onboarding metrics workbook](https://github.com/mikemishal/CIE-CNB-Lab/blob/main/small-business-onboarding-metrics.xlsx?raw=1)
 
 ## Required applications
 
